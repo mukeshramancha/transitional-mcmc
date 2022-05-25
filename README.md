@@ -17,3 +17,9 @@ Yuen, K. V. (2010). “Bayesian Methods for Structural Dynamics and Civil Engine
 see [2DOF_example.pdf](2DOF_example.pdf) document
 
 ![image](https://user-images.githubusercontent.com/41924394/170321794-bf395669-8623-454c-9b67-4bf66feefa7b.png)
+
+## quoFEM
+
+The TMCMC code in this repo also serves as the backend of NHERI SIMCENTER [quoFEM](https://simcenter.designsafe-ci.org/research-tools/quofem-application/) toolbox
+
+See [2 story building example](https://nheri-simcenter.github.io/quoFEM-Documentation/common/user_manual/examples/desktop/qfem-0014/README.html) solved using TMCMC and quoFEM
