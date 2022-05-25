@@ -24,4 +24,6 @@ see [2DOF_example.pdf](2DOF_example.pdf) document
 
 The TMCMC code in this repo also serves as the backend of NHERI SIMCENTER [quoFEM](https://simcenter.designsafe-ci.org/research-tools/quofem-application/) toolbox
 
+See [TMCMC algorithm](https://nheri-simcenter.github.io/quoFEM-Documentation/common/technical_manual/desktop/UCSDUQTechnical.html) description 
+
 See [2 story building example](https://nheri-simcenter.github.io/quoFEM-Documentation/common/user_manual/examples/desktop/qfem-0014/README.html) solved using TMCMC and quoFEM
