@@ -8,6 +8,8 @@ Pseudo code of the algorithm can be found in Table 2 of the following paper:
 
 Ramancha, M. K., Astroza, R., Madarshahian, R., and Conte, J. P. (2022). “Bayesian updating and identifiability assessment of nonlinear finite element models.“ Mechanical Systems and Signal Processing, 167, 108517. https://doi.org/10.1016/j.ymssp.2021.108517
 
+![image](https://user-images.githubusercontent.com/41924394/170327389-0c2906bb-0761-497f-b256-eb1588b704e4.png)
+
 ## main_2DOF.py
 
 main_2DOF.py is an example scipt that solves the problem mentioned in Section 2.2.3 of the following book:
