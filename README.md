@@ -18,13 +18,13 @@ Yuen, K. V. (2010). “Bayesian Methods for Structural Dynamics and Civil Engine
 
 see [2DOF_example.pdf](2DOF_example.pdf) document
 
-### TMCMC Samples at each stage
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/41924394/198080622-b50b7ea2-1765-4e34-a2e0-bacb441c75c0.gif)
-
 ### TMCMC Samples at final stage
 
 ![image](https://user-images.githubusercontent.com/41924394/170321794-bf395669-8623-454c-9b67-4bf66feefa7b.png)
+
+### TMCMC Samples at each stage
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/41924394/198080622-b50b7ea2-1765-4e34-a2e0-bacb441c75c0.gif)
 
 ## quoFEM
 
